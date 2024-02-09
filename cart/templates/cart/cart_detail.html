@@ -31,7 +31,7 @@
                                                     {% for product in cart %}
                                                         <tr>
                                                         <td class="product-remove text-left">
-                                                            <a href="">
+                                                            <a href="{% url 'cart:cart_remove' product.product_obj.id %}">
                                                                 <i class="flaticon flaticon-cross"></i>
                                                             </a>
                                                         </td>
@@ -40,7 +40,7 @@
                                                         </td>
                                                         <td class="product-name wide-column">
                                                             <h3>
-                                                                <a href="product-details.html">
+                                                                <a href="{{ product.product_obj.get_absolute_url }}">
                                                                     {{ product.product_obj.title }}
                                                                 </a>
                                                             </h3>
