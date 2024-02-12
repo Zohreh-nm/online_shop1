@@ -199,3 +199,6 @@ ACCOUNT_UNIQUE_EMAIL = True
 CRISPY_ALLOWED_TEMPLATE_PACK = 'bootstrap4'
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
+# ckeditor
+CKEDITOR_BASEPATH = "/my_static/ckeditor/ckeditor/"
+
