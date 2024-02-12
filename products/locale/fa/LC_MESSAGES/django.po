@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-10 14:21-0800\n"
-"PO-Revision-Date: 2024-02-11 01:53+0330\n"
-"Last-Translator:   <zohreh.nm@gmail.com>\n"
+"PO-Revision-Date: 2024-02-13 01:03+0330\n"
+"Last-Translator: ali alaee <zohreh.nm@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -52,7 +52,6 @@ msgid "rate"
 msgstr "امتیاز"
 
 #: .\templates\products\product_detail.html:18
-#, fuzzy
 #| msgid "Product Description"
 msgid "Product Details"
 msgstr "توضیحات محصول"

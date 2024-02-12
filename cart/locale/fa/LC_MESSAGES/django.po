@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-10 16:52-0800\n"
-"PO-Revision-Date: 2024-02-11 01:47+0330\n"
-"Last-Translator:   <zohreh.nm@gmail.com>\n"
+"PO-Revision-Date: 2024-02-13 01:30+0330\n"
+"Last-Translator: ali alaee <zohreh.nm@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -41,16 +41,16 @@ msgstr "رفتن به فروشگاه"
 
 #: .\templates\cart\cart_sidebar.html:33
 msgid "Total"
-msgstr ""
+msgstr "جمع کل"
 
 #: .\templates\cart\cart_sidebar.html:34
 msgid "$"
-msgstr ""
+msgstr "تومان"
 
 #: .\templates\cart\cart_sidebar.html:37
 msgid "Go to cart"
-msgstr ""
+msgstr "برو به سبد خرید"
 
 #: .\templates\cart\cart_sidebar.html:38
 msgid "Checkout"
-msgstr ""
+msgstr "پرداخت"
